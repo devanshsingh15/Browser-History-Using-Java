@@ -38,13 +38,13 @@ browser.currentPage();        // Shows OpenAI
 ```
 ## 📚 Learning Outcome
 This project is great for:
--Understanding stack and browser history behavior
--Practicing doubly linked list implementation
--Enhancing object-oriented programming skills in Java
+-`Understanding stack and browser history behavior
+-`Practicing doubly linked list implementation
+-`Enhancing object-oriented programming skills in Java
 
 ## 📁 File
--StackInWebBrowsers.java — contains the main implementation
--StackInWebBrowsersDriver.java — contains all the driver implementation
+-`StackInWebBrowsers.java — contains the main implementation
+-`StackInWebBrowsersDriver.java — contains all the driver implementation
 
 Feel free to connect!
 
