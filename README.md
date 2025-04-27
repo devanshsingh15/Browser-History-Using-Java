@@ -43,8 +43,8 @@ This project is great for:
 -Enhancing object-oriented programming skills in Java
 
 ## 📁 File
--StackInWebBrowsers.java — contains the main implementation.
--StackInWebBrowsersDriver.java — contains all the driver implementation.
+-StackInWebBrowsers.java — contains the main implementation
+-StackInWebBrowsersDriver.java — contains all the driver implementation
 
 Feel free to connect!
 
